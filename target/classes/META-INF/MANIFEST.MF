@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ProKabaddiScheduling
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: acer
+Implementation-Vendor-Id: com.suchita
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/ProKabaddiSc
+ heduling/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
